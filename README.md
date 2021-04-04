@@ -1,1 +1,1 @@
-# NoSQL-todos-and-homeworks
+# NoSQL-todos-and-homeworks for uni classes
